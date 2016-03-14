@@ -1,5 +1,7 @@
 # KwahuGuide
-Notice:The project is in development
+Quick Notice:The project is in development
+
+
 A tourist Mobile application for android which display
 various attracted places,hotels and real time event/fesitival in kawhu
 located in the eastern region of ghana.
